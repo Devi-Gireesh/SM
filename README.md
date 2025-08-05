@@ -1,8 +1,8 @@
 # SM
-# 🍽️ SmartServe - College Canteen Management System
+# 🍽️ SaintgitsEats - College Canteen Management System
 
 ## 📌 Project Overview
-**SmartServe** is an AI-powered, queue-free web application designed to modernize the college canteen experience.  
+**SaintgitsEats** is an AI-powered, queue-free web application designed to modernize the college canteen experience.  
 It allows students, faculty, and staff to **pre-order meals, make digital payments, track orders in real-time,** and eliminate long queues — enhancing efficiency and satisfaction for all stakeholders.
 
 ---
